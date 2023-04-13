@@ -1,0 +1,15 @@
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\bin\Debug\net7.0\boot.exe
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\bin\Debug\net7.0\boot.deps.json
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\bin\Debug\net7.0\boot.runtimeconfig.json
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\bin\Debug\net7.0\boot.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\bin\Debug\net7.0\boot.pdb
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.csproj.AssemblyReference.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.AssemblyInfoInputs.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.AssemblyInfo.cs
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.csproj.CoreCompileInputs.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\refint\boot.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.pdb
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\boot.genruntimeconfig.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot\obj\Debug\net7.0\ref\boot.dll
