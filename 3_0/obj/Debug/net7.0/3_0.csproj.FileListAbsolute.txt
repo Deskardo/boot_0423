@@ -1,0 +1,5 @@
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\3_0\obj\Debug\net7.0\3_0.csproj.AssemblyReference.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\3_0\obj\Debug\net7.0\3_0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\3_0\obj\Debug\net7.0\3_0.AssemblyInfoInputs.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\3_0\obj\Debug\net7.0\3_0.AssemblyInfo.cs
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\3_0\obj\Debug\net7.0\3_0.csproj.CoreCompileInputs.cache
