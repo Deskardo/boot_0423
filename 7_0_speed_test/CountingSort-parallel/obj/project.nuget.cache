@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+PUX4PuaENLpnK0QVcy0MaKB9w7gFVodAj/5QIMP2XGuK1tYAPB1r31szhbhKIvr+u0GXtJuROKmlW8gbGurw==",
+  "dgSpecHash": "zyNMdNAYtK8JqXpHc2XVdgd7RdFNwTDcuPwxiXTeJZmYjqVrOKmn7lVs5OU9jm/RKE8iRsgLoJPoMXCyTVPGFA==",
   "success": true,
-  "projectFilePath": "D:\\GB\\bootcamp\\CountingSort\\CountingSort.csproj",
+  "projectFilePath": "D:\\Курсы\\GeekBrains аналитика\\Программирование C#\\boot 04.23\\7_0_speed_test\\CountingSort-parallel\\CountingSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

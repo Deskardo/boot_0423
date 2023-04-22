@@ -1,0 +1,24 @@
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\bin\Release\net6.0\ListOfSortingAlgorithms.deps.json
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\bin\Release\net6.0\ListOfSortingAlgorithms.dll
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\bin\Release\net6.0\ref\ListOfSortingAlgorithms.dll
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\bin\Release\net6.0\ListOfSortingAlgorithms.pdb
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.AssemblyInfoInputs.cache
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.AssemblyInfo.cs
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.dll
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ref\ListOfSortingAlgorithms.dll
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.pdb
+D:\GB\bootcamp\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.csproj.AssemblyReference.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\bin\Release\net6.0\ListOfSortingAlgorithms.deps.json
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\bin\Release\net6.0\ListOfSortingAlgorithms.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\bin\Release\net6.0\ListOfSortingAlgorithms.pdb
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.csproj.AssemblyReference.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.AssemblyInfoInputs.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.AssemblyInfo.cs
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\refint\ListOfSortingAlgorithms.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ListOfSortingAlgorithms.pdb
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\RaceOfSort\ListOfSortingAlgorithms\obj\Release\net6.0\ref\ListOfSortingAlgorithms.dll

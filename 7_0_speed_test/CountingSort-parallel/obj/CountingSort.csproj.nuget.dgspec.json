@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\bootcamp\\CountingSort\\CountingSort.csproj": {}
+    "D:\\Курсы\\GeekBrains аналитика\\Программирование C#\\boot 04.23\\7_0_speed_test\\CountingSort-parallel\\CountingSort.csproj": {}
   },
   "projects": {
-    "D:\\GB\\bootcamp\\CountingSort\\CountingSort.csproj": {
+    "D:\\Курсы\\GeekBrains аналитика\\Программирование C#\\boot 04.23\\7_0_speed_test\\CountingSort-parallel\\CountingSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\bootcamp\\CountingSort\\CountingSort.csproj",
+        "projectUniqueName": "D:\\Курсы\\GeekBrains аналитика\\Программирование C#\\boot 04.23\\7_0_speed_test\\CountingSort-parallel\\CountingSort.csproj",
         "projectName": "CountingSort",
-        "projectPath": "D:\\GB\\bootcamp\\CountingSort\\CountingSort.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\bootcamp\\CountingSort\\obj\\",
+        "projectPath": "D:\\Курсы\\GeekBrains аналитика\\Программирование C#\\boot 04.23\\7_0_speed_test\\CountingSort-parallel\\CountingSort.csproj",
+        "packagesPath": "C:\\Users\\Partner_manager\\.nuget\\packages\\",
+        "outputPath": "D:\\Курсы\\GeekBrains аналитика\\Программирование C#\\boot 04.23\\7_0_speed_test\\CountingSort-parallel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Partner_manager\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

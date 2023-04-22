@@ -13,3 +13,18 @@ D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.dll
 D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\ref\CountingSort.dll
 D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.pdb
 D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.genruntimeconfig.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\bin\Debug\net6.0\CountingSort.exe
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\bin\Debug\net6.0\CountingSort.deps.json
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\bin\Debug\net6.0\CountingSort.runtimeconfig.json
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\bin\Debug\net6.0\CountingSort.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\bin\Debug\net6.0\CountingSort.pdb
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.csproj.AssemblyReference.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.AssemblyInfoInputs.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.AssemblyInfo.cs
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.csproj.CoreCompileInputs.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\refint\CountingSort.dll
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.pdb
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\CountingSort.genruntimeconfig.cache
+D:\Курсы\GeekBrains аналитика\Программирование C#\boot 04.23\7_0_speed_test\CountingSort-parallel\obj\Debug\net6.0\ref\CountingSort.dll
