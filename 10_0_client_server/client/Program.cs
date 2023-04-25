@@ -7,10 +7,6 @@
     {
       Console.WriteLine("Это наш клиент");
       OurClient ourClient = new OurClient();
-
-
     }
-
-  
   }
 }

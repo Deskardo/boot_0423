@@ -6,12 +6,16 @@ namespace Client
   class OurClient
   {
     private TcpClient client;
-    StreamWriter sReader;
+    private StreamWriter sWriter;
+    private StreamReader sReader;
 
-    OurClient(string ipaddress, int portNum)
+    public OurClient()
     {
       client = new TcpClient("127.0.0.1", 5555);
-      sReader = StreamWriter(client.GetStrem(), Encoding.UTF8);
+      sWriter = new StreamWriter(client.GetStream(), Encoding.UTF8);
+      sReader = new StreamReader(client.GetStream(), Encoding.UTF8);
+
+      HandleCommunication();
     }
 
     void HandleCommunication()
@@ -19,9 +23,9 @@ namespace Client
       while (true)
       {
         Console.Write("> ");
-        string message = Console.ReadLine();
-        sReader.WriteLine(message);
-        sReader.Flush();
+        string message = Console.ReadLine()!;
+        sWriter.WriteLine(message);
+        sWriter.Flush();
       }
     }
   }
